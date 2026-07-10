@@ -28,9 +28,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sukantatheboo&show_icons=true&theme=tokyonight&count_private=true" alt="Sukanta's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=sukantatheboo&show_icons=true&theme=tokyonight&count_private=true" alt="Sukanta's GitHub Stats" />
 </p>
-
 <p align="center">
   <a href="https://github.com/sukantatheboo">
     <img src="https://img.shields.io/github/followers/sukantatheboo?label=Follow&style=social" alt="Follow on GitHub">
