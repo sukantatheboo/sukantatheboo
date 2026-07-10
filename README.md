@@ -1,4 +1,4 @@
-<img src="./banner.jpg" alt="Mario Coding Banner" width="100%">
+<img src="./banner.gif" alt="Mario Coding Banner" width="100%">
 
 <p align="center">
   <img src="./banner.jpg" alt="Mario Coding Banner" width="100%">
