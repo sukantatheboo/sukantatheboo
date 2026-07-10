@@ -1,9 +1,5 @@
 <img src="./banner.gif" alt="Mario Coding Banner" width="100%">
 
-<p align="center">
-  <img src="./banner.jpg" alt="Mario Coding Banner" width="100%">
-</p>
-
 <h1 align="center">Hi, I'm Sukanta Pal 👋</h1>
 
 <p align="center">
