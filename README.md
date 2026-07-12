@@ -20,7 +20,7 @@
 
 ### 🚀 Projects I've Built
 
-- **🎮[Tic-Tac-Toe App](https://github.com/sukantatheboo/tic-tac-toe):** An interactive Tic-Tac-Toe application featuring a single-player mode with an integrated AI opponent.
+- **🎮[Tic-Tac-Toe App](https://sukantatheboo.github.io/tic-tac-toe-ai-version/):** An interactive Tic-Tac-Toe application featuring a single-player mode with an integrated AI opponent.
 - **🚨[Emergency Hotline](https://github.com/sukantatheboo/emergency-hotline):** A responsive web page designed for quick access to critical contact directory numbers.
 - **📚[English Janla](https://sukantatheboo.github.io/english-janala):** An interactive educational platform designed to make learning English accessible, engaging, and structured.
 - **🌱[Green Earth](https://sukantatheboo.github.io/green-earth):** A web platform focused on environmental sustainability, eco-friendly practices, and green living awareness.
