@@ -1,13 +1,7 @@
 <img src="./banner.gif" alt="Mario Coding Banner" width="100%">
 
-<h1 align="center">Hi, I'm Sukanta Pal 👋</h1>
+<h1 align="center">Hey There, I gotcha😄</h1>
 
-<p align="center">
-  <strong>Frontend & Full-Stack Web Developer</strong><br>
-  Building interactive web applications and bringing creative ideas to life.
-</p>
-
----
 
 ### 💻 Tech Stack
 <p align="left">
