@@ -1,6 +1,6 @@
 <img src="./banner.gif" alt="Mario Coding Banner" width="100%">
 
-<h1 align="center">Hey There 😄</h1> 
+<h1 align="center">Hey 😃</h1> 
 
 
 ### 💻 Tech Stack
