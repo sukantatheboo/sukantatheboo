@@ -19,6 +19,6 @@
 - **🌱[Green Earth](https://sukantatheboo.github.io/green-earth):** A web platform focused on environmental sustainability, eco-friendly practices, and green living awareness.
 - **🎟️[Customer Support Ticket](https://customer-support-ticket123.surge.sh/):** A a web-based Customer Support Ticket Management System designed to help users create, track, and manage support requests, streamlining communication between customers and support teams.
 - **🏏[Select Your Dream XI](https://select-your-dream-xi.surge.sh/):** An interactive web application to assemble, manage, and budget your ultimate dream 11 cricket team.
-- **💸[Spend -  Personal Expense Tracker](https://sukantatheboo.github.io/personal-expense-tracker/):** Spend is a privacy-first, client-side personal finance web app designed to help you track daily spending, set monthly budgets, and monitor recurring payments directly in your browser.
+- **💸[Spend -  Personal Expense Tracker](https://sukantatheboo.github.io/personal-expense-tracker/):** Spend is a privacy-first, client-side personal finance web app designed to help you track daily spending, set monthly budgets, and monitor recurring payments directly in your browser(its made with codex).
 
 ---
